@@ -1,0 +1,6 @@
+colorama
+pyfiglet
+pygetwindow
+pygame
+pytz
+psutil
